@@ -12,4 +12,5 @@ Collecting awesome part of alfred, such as workflows, web search features...
 - Zhihu: https://www.zhihu.com/search?type=content&q={query}
 
 # Workflows
-- Youdao translate: https://github.com/wensonsmith/YoudaoTranslator
+## Translate
+- Youdao: https://github.com/wensonsmith/YoudaoTranslator
