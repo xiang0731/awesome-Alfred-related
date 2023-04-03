@@ -21,4 +21,4 @@ Collecting awesome part of alfred, such as workflows, web search features...
 
 ## Remark
 All content is collected from the internet.
-If any of the content infringes upon your rights, please contact us that we will promptly remove it.
+If any of the content infringes upon your rights, please contact me that I will promptly remove it.
