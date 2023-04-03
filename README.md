@@ -10,3 +10,6 @@ Collecting awesome part of alfred, such as workflows, web search features...
 - JD: https://search.jd.com/Search?keyword={query}
 - Taobao: https://s.taobao.com/search?q={query}
 - Zhihu: https://www.zhihu.com/search?type=content&q={query}
+
+# Workflows
+- Youdao translate: https://github.com/wensonsmith/YoudaoTranslator
