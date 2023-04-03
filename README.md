@@ -18,3 +18,7 @@ Collecting awesome part of alfred, such as workflows, web search features...
 ## Acknowledgement
 - https://www.alfredapp.com/help/workflows/
 - https://www.alfredapp.com/help/workflows/inputs/script-filter/json/
+
+## Remark
+All contents of the collection site on the Internet
+If any of the content infringes upon your rights, please contact us that we will promptly remove it.
