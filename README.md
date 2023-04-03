@@ -16,5 +16,5 @@ Collecting awesome part of alfred, such as workflows, web search features...
 - Youdao: https://github.com/wensonsmith/YoudaoTranslator
 
 # Acknowledgement
-https://www.alfredapp.com/help/workflows/
-https://www.alfredapp.com/help/workflows/inputs/script-filter/json/
+- https://www.alfredapp.com/help/workflows/
+- https://www.alfredapp.com/help/workflows/inputs/script-filter/json/
