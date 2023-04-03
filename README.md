@@ -1,2 +1,2 @@
-# awesome-Alfred-related
-Collecting awesome part of alfred, such as workflows
+# awesome-AlfredRelated
+Collecting awesome part of alfred, such as workflows, web search features...
