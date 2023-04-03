@@ -20,5 +20,5 @@ Collecting awesome part of alfred, such as workflows, web search features...
 - https://www.alfredapp.com/help/workflows/inputs/script-filter/json/
 
 ## Remark
-All contents of the collection site on the Internet
+All content is collected from the internet.
 If any of the content infringes upon your rights, please contact us that we will promptly remove it.
