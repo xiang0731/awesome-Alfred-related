@@ -1,5 +1,8 @@
 # awesome-AlfredRelated
-Collecting awesome part of alfred, such as workflows, web search features...
+Here we collect awesome browser-related stuff in various categories, such as extensions, scripts, documents, etc.
+Feel free to **star** and **fork**.
+
+Any comments, suggestions? [Let us know!](https://github.com/xiang0731/awesome-AlfredRelated/issues) We love PRs :)
 
 ## Features
 ### Web Search
